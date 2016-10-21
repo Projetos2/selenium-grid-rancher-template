@@ -1,4 +1,0 @@
-.catalog:
-	name: Demo version of a Selenium Grid deployed with Rancher
-	version: 1
-	description: Deploy a Selenium Grid with a Firefox and a Chrome at latest versions

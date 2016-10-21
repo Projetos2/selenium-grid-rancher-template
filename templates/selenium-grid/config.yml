@@ -1,7 +1,8 @@
+---
 name: Selenium Grid
-description: |
-	Deploy a selenium grid with a centralized hub and as many nodes as you need
-version: 1
+description: >
+  Deploy a selenium grid with a centralized hub and as many nodes as you need
+version: 0.0.1
 category: Testing
 maintainer: Benjamin Audren <benjamin.audren@gmail.com>
 license: MIT
