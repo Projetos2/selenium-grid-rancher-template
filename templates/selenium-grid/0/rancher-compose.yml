@@ -1,0 +1,5 @@
+.catalog:
+  name: "Selenium Grid"
+  version: "v0.0.1"
+  description: "Deploy a Selenium Grid"
+  minimum_rancher_version: v1.0.0
